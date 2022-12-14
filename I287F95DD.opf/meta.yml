@@ -1,0 +1,26 @@
+id: I287F95DD
+default_language: bo
+source: ''
+initial_creation_type: tmx
+imported: 2022-12-14 10:41:16.380036+00:00
+last_modified: 2022-12-14 10:41:16.380043+00:00
+source_metadata:
+  creationtool: InterText
+  creationtoolversion: '1.0'
+  datatype: PlainText
+  segtype: block
+  adminlang: en-us
+  srclang: bo
+  o-tmf: XML aligned text
+  eft-text-id: UT22084-094-007
+  eft-text-version: 1.1.8 2021
+  title: Toh_730-Dh%C4%81ra%E1%B9%87%C4%AB_T%C4%81r%C4%81%E2%80%99s_Own_Promise-v2
+bases:
+  E86C:
+    source_metadata: null
+    order: 1
+    base_file: E86C.txt
+    statistics: null
+copyright:
+  status: Unknown
+  notice: ''
